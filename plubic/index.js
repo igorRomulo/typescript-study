@@ -1,3 +1,4 @@
+"use strict";
 var input1 = document.getElementById('numb-1');
 var input2 = document.getElementById('numb-2');
 var button = document.getElementById('button');
